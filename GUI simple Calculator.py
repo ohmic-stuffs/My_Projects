@@ -75,7 +75,7 @@ if __name__ == "__main__":
 	equation = StringVar()
 
 	# set the background colour of GUI window
-	gui.configure(background="light green")
+	gui.configure(background="black")
 
 	# set the title of GUI window
 	gui.title("Simple Calculator")
@@ -269,7 +269,7 @@ if __name__ == "__main__":
 
     # set the background colour of GUI window 
 
-    gui.configure(background="light green") 
+    gui.configure(background="black") 
  
 
     # set the title of GUI window 
